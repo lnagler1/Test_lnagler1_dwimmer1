@@ -2,4 +2,9 @@
 git add dwimmer1
 git commit
 git push
+#Für 2te Aufgabe
 git pull
+git add dwimmer1
+git commit 
+git push
+#für namen
