@@ -1,4 +1,14 @@
 #lnagler1.txt erstellen
+git add lnagler1
 git commit
 #in die Remote Repository hinzufügen
+git push
+#dwimmers Schritte wurden schon gemacht
+git pull
+#jetzt schritt 6
+git push
+#dwimmer war schneller seine Email wird in meine Readme hinzugefügt, aber meine bleibt stehen und
+#erstell einen neuen Branch ich hab den Branch schon dwimmer1 noch nicht deshalb.
+git add Readme
+git commit
 git push
