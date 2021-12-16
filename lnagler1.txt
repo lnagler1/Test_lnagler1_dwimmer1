@@ -1,0 +1,4 @@
+#lnagler1.txt erstellen
+git commit
+#in die Remote Repository hinzufügen
+git push
