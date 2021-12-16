@@ -8,3 +8,6 @@ git add dwimmer1
 git commit 
 git push
 #für namen
+6.b Bei dem der die Datei als erstes pusht bleibt es der der als zweiter pusht bekommt ein error und
+ die beiden zeilen teilen sich auf die zweite geht nach oben und die andere bleibt
+ Man kann sie lösen in dem man zurückschpringt
